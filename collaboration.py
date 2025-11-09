@@ -13,6 +13,8 @@ def amal():
 # Example:
 # def alan():
 #     print("Hey, I'm Alan! Excited to teach Git and GitHub.")
+def thejuskk():
+    print("Hi this is thejuskk from cse. nice to meet you")
 
 # -----------------------------
 #  Call your function below 
@@ -20,5 +22,6 @@ def amal():
 
 amal()
 # alan()
+thejuskk()
 
 print("\n Program executed successfully! Great work, everyone!")
