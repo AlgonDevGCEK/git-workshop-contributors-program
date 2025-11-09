@@ -11,6 +11,8 @@ def amal():
     print("Hello everyone! This is Amal — let's make Git fun together!")
 def shiva():
     print("Hello everyone! My name is shiva — let's make Git fun together!")
+def ConfidentHero():
+    print("\n\nHello all, I am Akhil -- let's code together!!\n\n")
 def thejuskk():
     print("Hi this is thejuskk from cse. nice to meet you")
 
@@ -21,5 +23,5 @@ def thejuskk():
 amal()
 thejuskk()
 shiva()
+ConfidentHero()
 print("\nProgram executed successfully! Great work, everyone!")
-
